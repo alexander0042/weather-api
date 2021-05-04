@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-  darksky: 'AIzaSyDVgzAMACiyxjBu3Oq5e_kZWbFRwcdOkuI',
-  google: 'AIzaSyDVgzAMACiyxjBu3Oq5e_kZWbFRwcdOkuI'
+  darksky: "'050cd60efd150f285bce2aae9d44f53d'",
+  google: "'AIzaSyDVgzAMACiyxjBu3Oq5e_kZWbFRwcdOkuI"'
 }
